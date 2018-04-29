@@ -1,3 +1,2 @@
 
-Tạo giao diện Demo File Explorer
-Thự hiện chức năng Nén Folder
+Tạo giao diện Demo File Explorer - Thực hiện chức năng Nén Folder
